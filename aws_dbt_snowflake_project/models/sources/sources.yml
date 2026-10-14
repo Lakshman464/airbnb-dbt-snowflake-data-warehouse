@@ -1,0 +1,8 @@
+sources:
+  - name: stagging
+    database: AIRBNB 
+    schema: stagging  
+    tables:
+      - name: listings
+      - name: hosts
+      - name: bookings
