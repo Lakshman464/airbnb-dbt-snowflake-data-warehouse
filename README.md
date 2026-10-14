@@ -112,7 +112,7 @@ Git
 
 1. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/airbnb-dbt-snowflake-data-warehouse.git
+git clone https://github.com/Lakshman464/airbnb-dbt-snowflake-data-warehouse.git
 cd airbnb-dbt-snowflake-data-warehouse
 
 2. Activate Your Python Environment
